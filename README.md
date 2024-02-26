@@ -4,4 +4,4 @@
 
 Graph showing scaling for ASPECT using NIAGARA (dotted lines) and ARCHER2 (solid lines). The largest (25.7e7 DoF), medium (53.3e6 DoF), and smallest (2.4e6 DoF) models were ran on ARCHER to determine the optimum number of nodes to run each model on. It was found that large jobs run optimally on 15 nodes (using 128 cores per node), our medium jobs on 6 nodes, and our small jobs on 2 nodes. The optimum number of cores for each model on ARCHER2 is highlighted with a black outline.
 
-The parameter files used for testing on ARCHER2 are uploaded.
+The parameter files used for testing on ARCHER2 are uploaded here.
